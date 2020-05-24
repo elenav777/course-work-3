@@ -385,4 +385,3 @@ if __name__ == '__main__':
     task22(A, N, M)
 
 
-© 2020 GitHub, Inc.
